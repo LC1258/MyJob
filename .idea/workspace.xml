@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d755f90-58c8-49bd-acee-fb3c3cf377a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/aqiyi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/aqiyi/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/aqiyi/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/baidu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/baidu/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/beike/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/beike/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/beike/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/beike/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/bilibili/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/bilibili2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/bilibili2/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/bilibili2/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/bilibili2/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/bytedance/Bytedance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/bytedance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/dajiang/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/dajiang16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/dajiang16/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/dajiang16/Mian1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/dianxinyun/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/dianxinyun/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/dianxinyun/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/duxiaoman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/haoweilai/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huawei/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huawei/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huawei/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huawei/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huawei/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huawei/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huawei/TotalLakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/huaweiinterview/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/leetcodeZhousai/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/meituan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/meituan/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/meituan/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/meituan/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/mihayou/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/mihayou/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/netease/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/netease/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/netease/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/netease/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/netease/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/netease/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/pdd/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/pdd/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/pdd/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/qianxin/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/qunaer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/shunfeng/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/sisanjiujiu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/sougou/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/sougou/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/sougou/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/tencent/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/tencent/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/tencent/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/tencent/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/tencent/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/wubatongcheng/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/xiaohongshu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/xiaohongshu/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/xiaohongshu/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/xiecheng/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/xiecheng/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/zuiyou/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lwj/codeexamination/zuiyou/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9d755f90-58c8-49bd-acee-fb3c3cf377a5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +17,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lwj/codeexamination" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lwj/summary" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -119,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602508373256</updated>
       <workItem from="1602508376592" duration="1209000" />
-      <workItem from="1602769395921" duration="950000" />
+      <workItem from="1602769395921" duration="1324000" />
     </task>
     <servers />
   </component>
